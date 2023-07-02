@@ -1,3 +1,10 @@
+![Surety_fonts9](https://github.com/6775060/Surety/assets/41392424/1638846e-0edd-4e6c-b116-f118dc3d5045)
+![Surety_fonts8](https://github.com/6775060/Surety/assets/41392424/ac49050b-a652-4a4f-abfa-79550ec17b16)
+![Surety_fonts7](https://github.com/6775060/Surety/assets/41392424/e5c36c1d-b153-4d1f-b015-18e29a76791d)
+![Surety_fonts6](https://github.com/6775060/Surety/assets/41392424/c37247a3-e65b-4f3e-a197-2de2d1af04d5)
+![Surety_fonts5](https://github.com/6775060/Surety/assets/41392424/64257505-4570-49dd-b5e1-212f82d77322)
+![Surety_fonts4](https://github.com/6775060/Surety/assets/41392424/c9d5973d-fcc7-4de8-ab82-51b91f9d078f)
+![Surety_fonts3](https://github.com/6775060/Surety/assets/41392424/024cb8d2-5e92-4c15-8881-9018904f1528)
 ----
 
 ## Setting up your font
@@ -50,8 +57,9 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F6775060%2FSurety%2Fgh-pages%2Fbadges%2FUniversal.json
 
 a versatile font with a stylish and versatile skeleton, on the one hand it contains movement and cuts that herald energy and determination, on the other hand it has wonderful sensitivity and charisma, these qualities give it the ability to influence "Aravat" is the workhorse suitable for a wide range of uses
+![Uploading Surety_fonts2.png…]()
+![Uploading Surety_fonts.png…]()
 
-![Sample Image](documentation/image1.png)
 
 ## About
 I am Shoki Dayan, a designer of insightful types.
