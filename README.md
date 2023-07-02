@@ -55,20 +55,20 @@ a versatile font with a stylish and versatile skeleton, on the one hand it conta
 
 ## About
 I am Shoki Dayan, a designer of insightful types.
-Proud to present the Shorty project: a multilingual font project including Latin, Hebrew and Tamil languages, a typeface containing an intriguing combination of contrasts of presence on the one hand and sensitivity on the other
+Proud to present the Surety project: a multilingual font project including Latin, Hebrew and Tamil languages, a typeface containing an intriguing combination of contrasts of presence on the one hand and sensitivity on the other
 
 ## Specifications
 surety is a variable font with 518 glyphs, including Hebrew, Latin, Tamil.
 Improved kerning feature, contains 9 meticulous weights:
-100 - Thin
-140 - ExtraLight
-200 - Light
-300 - Medium
-400 - Regular
-600 - SemiBold
-700 - Bold
-800 - ExtraBold
-900 - Black
+## 100 - Thin
+## 140 - ExtraLight
+## 200 - Light
+## 300 - Medium
+## 400 - Regular
+## 600 - SemiBold
+## 700 - Bold
+## 800 - ExtraBold
+## 900 - Black
 
 ## Building
 
