@@ -49,15 +49,26 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F6775060%2FSurety%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F6775060%2FSurety%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
+a versatile font with a stylish and versatile skeleton, on the one hand it contains movement and cuts that herald energy and determination, on the other hand it has wonderful sensitivity and charisma, these qualities give it the ability to influence "Aravat" is the workhorse suitable for a wide range of uses
 
 ![Sample Image](documentation/image1.png)
 
 ## About
+I am Shoki Dayan, a designer of insightful types.
+Proud to present the Shorty project: a multilingual font project including Latin, Hebrew and Tamil languages, a typeface containing an intriguing combination of contrasts of presence on the one hand and sensitivity on the other
 
-Description of you and/or organisation goes here.
+## Specifications
+surety is a variable font with 518 glyphs, including Hebrew, Latin, Tamil.
+Improved kerning feature, contains 9 meticulous weights:
+100 - Thin
+140 - ExtraLight
+200 - Light
+300 - Medium
+400 - Regular
+600 - SemiBold
+700 - Bold
+800 - ExtraBold
+900 - Black
 
 ## Building
 
