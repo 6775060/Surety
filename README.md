@@ -49,6 +49,7 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F6775060%2FSurety%2Fgh-pages%2Fbadges%2FUniversal.json
 
 a versatile font with a stylish and versatile skeleton, on the one hand it contains movement and cuts that herald energy and determination, on the other hand it has wonderful sensitivity and charisma, these qualities give it the ability to influence "Aravat" is the workhorse suitable for a wide range of uses
+
 !![Surety_fonts](https://github.com/6775060/Surety/assets/41392424/e37705eb-f166-4fc7-9bbe-4bb70deb1cb6)
 ![Surety_fonts2](https://github.com/6775060/Surety/assets/41392424/51a816fa-cf27-40e2-bd9c-a7b82a5eccc6)
 [Surety_fonts3](https://github.com/6775060/Surety/assets/41392424/024cb8d2-5e92-4c15-8881-9018904f1528)
@@ -63,8 +64,11 @@ a versatile font with a stylish and versatile skeleton, on the one hand it conta
 
 ## About
 I am Dayan Shoki, the founder of the font shop fontshok.co.il
+
 Designer identity for brands with intelligent typefaces.
-Proud to present the Surety project: a multilingual font project that includes Latin, Hebrew and Tamil languages, a font that contains an intriguing combination of contrasts of presence on the one hand and sensitivity on the other.
+Proud to present the Surety project: a multilingual font project that includes Latin,
+Hebrew and Tamil languages, a font that contains an intriguing combination of contrasts
+of presence on the one hand andsensitivity on the other.
 
 ## Specifications
 surety is a variable font with 518 glyphs, including Hebrew, Latin, Tamil.
